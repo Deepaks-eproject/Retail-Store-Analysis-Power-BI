@@ -1,2 +1,4 @@
-# Retail-Store-Analysis-Power-BI
-Comprehensive Power BI dashboard project designed to evaluate retail store performance with a strategic focus on sales, profitability, and customer segmentation. This solution delivers critical business insights through key performance indicators and advanced visualizations, empowering stakeholders to make informed, data-driven decisions.
+# Data-Analytics-Project_Power-BI
+![image](https://github.com/user-attachments/assets/8f3eb001-55df-4493-ac89-dc61a72b1ecf)
+
+Power BI dashboard project focused on analyzing retail store performance, with an emphasis on sales, profitability, and customer segmentation. This solution provides essential business insights through key performance indicators and advanced visualizations, enabling stakeholders to make informed, data-driven decisions.
