@@ -11,6 +11,7 @@ The "Office Supplies" category emerged as the most profitable, while "Storage" l
 
 **Key findings - Discounts were identified as a key factor negatively affecting the profitability of certain categories, particularly "Furniture."**
 
+**Regional Insights**
 ![image](https://github.com/user-attachments/assets/4752a1cc-e667-4618-9c94-64fbd890dd7d)
 
 Total Orders by State: The map visualization shows the distribution of orders across states, with larger bubbles indicating a higher number of orders.
